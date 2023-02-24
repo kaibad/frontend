@@ -1,0 +1,23 @@
+https://themeforest.net/
+==================================
+HTML to design
+HTML to figma
+
+we have to install plugins in figma
+
+step 1: HTML TO Design( Run )
+step 2: copy url to convert into figma
+step 3: Choose  plain empty design
+
+
+======how to enablr column in  figma design======
+step 1:- Select frame
+dtep 2:- After selctig frame it will show panel right side
+step 3:- click on layout grid
+step 4:- choose columns intead grid
+
+
+Cuterr
+=======================
+Gap between columns
+

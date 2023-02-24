@@ -1,0 +1,76 @@
+font-size:-16px;14px;18px;
+line-heignt: 30px;26px;36px
+
+vertical-rythm
+====================
+
+slider
+=========================
+
+ step 1. copy jquery cdn import
+owl carouser(download and extract)
+================
+
+
+ owl.carousel.min.css // copy into css folder
+ owl.theme.default.css // copy into css folder
+ owl.carousel.min.js / copy into js folder
+
+step2:import
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+ <link rel="stylesheet" href="css/owl.theme.default.css">
+
+ <script src="js/owl.carousel.min.js"></script>
+
+ step 3:copy setup code 
+ step 4:
+   configuratio setting 
+
+   to make automatic movee use
+
+   
+   autoplay:true;
+   autoplayTimeout:1000,
+
+    <div class="container">
+
+        </div>
+        <div class="footer-title">
+            <h4>
+                Do you have any query?
+            </h4>
+            <h2>Contact Me</h2>
+
+        </div>
+        <div class="footer-contact-form">
+            <form action="">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- form-control is a bootstrap css class that help in -->
+                        <input type="text " class="form-control" placeholder="Full name" name="">
+                    </div>
+                    <div class="col-lg-6">
+                        <input type="email" placeholder="Enter the email" class="form-control">
+
+                    </div>
+                    <div class="col-lg-6">
+                        <input type="number" placeholder="Enter your phone mumber" class="form-control">
+                    </div>
+                    <div class="col-lg-6">
+                        <input type="text" class="form-control" placeholder="Address">
+                    </div>
+                    <div class="col-lg-6">
+                        <input type="text " class="form-control" placeholder="Subject">
+                    </div>
+                    <div class="col-lg-12">
+                        <textarea name="" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+                    </div>
+
+                    <div class="col-lg-12">
+                        <!-- use bootstrap clss btn  -->
+                        <input type="Submit" value="Send Now" class="btn my-button" >
+                    </div>
+
+                </div>
+            </form>
+        </div>

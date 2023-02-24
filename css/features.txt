@@ -1,0 +1,7 @@
+Minimu features for websitea=
+1. Slider:content/image-slider -owl crauser
+2.fancybox:image zoom;
+Image galery: plung Name - Unitegallery
+
+
+fancy-box: js/css
